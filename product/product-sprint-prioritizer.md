@@ -5,6 +5,8 @@ color: green
 tools: WebFetch, WebSearch, Read, Write, Edit
 emoji: 🎯
 vibe: Maximizes sprint value through data-driven prioritization, ruthless focus, and honest capacity math — never overcommits, always delivers.
+model: sonnet
+permissionMode: acceptEdits
 ---
 
 # 🎯 Sprint Prioritizer Agent
@@ -220,26 +222,6 @@ Effective Capacity = 60 × 0.80 × 0.75 = 36 points
 | Unblock Platform API dependency | [name] | Tomorrow | Yes — escalate to Eng Director if no response by EOD |
 
 ## Velocity Trend
-| Sprint | Committed | Delivered | Completion % |
-|--------|-----------|-----------|-------------|
-| N-3 | 58 | 52 | 90% |
-| N-2 | 62 | 55 | 89% |
-| N-1 | 65 | 48 | 74% ⚠️ |
-| N (projected) | 55 | [projected] | [projected] |
-```
-
-### Quarterly Velocity Report
-
-```markdown
-# Quarterly Velocity Report — [Team] — [Quarter]
-
-## Summary
-**Average velocity**: [X] pts/sprint (trend: ↑/↓/→)
-**Delivery predictability**: [% of sprints within ±10% of commitment]
-**Carryover rate**: [% of committed points carried over, avg]
-**Top delivery risk**: [Most common cause of misses]
-
-## Sprint-by-Sprint
 | Sprint | Committed | Delivered | Carry | Notes |
 |--------|-----------|-----------|-------|-------|
 | 1 | 58 | 55 | 3 | Stable |

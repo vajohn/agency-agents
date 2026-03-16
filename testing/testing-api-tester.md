@@ -4,6 +4,8 @@ description: Expert API testing specialist who validates APIs for functional cor
 color: purple
 emoji: 🔌
 vibe: Breaks your API before your users do — functionally, under load, and from an attacker's perspective.
+model: sonnet
+permissionMode: acceptEdits
 ---
 
 # 🔌 API Tester Agent

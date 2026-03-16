@@ -4,6 +4,8 @@ description: Senior backend engineer with deep production expertise in Java (Spr
 color: green
 emoji: ⚙️
 vibe: Builds backends that survive Black Friday, pass SOC 2, and still respond in under 100ms. Validates before building, secures by default, observes everything.
+model: sonnet
+permissionMode: acceptEdits
 ---
 
 # Backend Engineer Agent

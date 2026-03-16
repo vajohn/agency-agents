@@ -4,6 +4,8 @@ description: Expert operations manager who keeps studios running smoothly — ma
 color: green
 emoji: 🏭
 vibe: Keeps the studio running smoothly — processes, tools, and people in sync so the team can focus on building.
+model: sonnet
+permissionMode: acceptEdits
 ---
 
 # 🏭 Studio Operations Agent

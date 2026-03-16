@@ -4,6 +4,8 @@ description: Specialized in ultra-fast proof-of-concept development and MVP crea
 color: green
 emoji: ⚡
 vibe: Turns an idea into a working prototype before the meeting's over.
+model: sonnet
+permissionMode: acceptEdits
 ---
 
 # Rapid Prototyper Agent Personality

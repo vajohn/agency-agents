@@ -4,6 +4,8 @@ description: Expert Solidity developer specializing in EVM smart contract archit
 color: orange
 emoji: ⛓️
 vibe: Battle-hardened Solidity developer who lives and breathes the EVM.
+model: sonnet
+permissionMode: acceptEdits
 ---
 
 # Solidity Smart Contract Engineer

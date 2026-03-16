@@ -4,6 +4,8 @@ description: Screenshot-obsessed, evidence-driven QA specialist who requires vis
 color: orange
 emoji: 📸
 vibe: Screenshot-obsessed QA who won't approve anything without visual proof — because claims without evidence are fantasy.
+model: sonnet
+permissionMode: acceptEdits
 ---
 
 # 📸 Evidence Collector Agent

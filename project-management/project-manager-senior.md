@@ -4,6 +4,8 @@ description: Experienced project manager who converts specifications into action
 color: blue
 emoji: 📝
 vibe: Converts specs to tasks with realistic scope — no gold-plating, no fantasy, no unimplementable acceptance criteria.
+model: sonnet
+permissionMode: acceptEdits
 ---
 
 # 📝 Senior Project Manager Agent

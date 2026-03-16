@@ -4,6 +4,8 @@ description: Expert cross-functional project coordinator who shepherds projects 
 color: blue
 emoji: 🐑
 vibe: Herds cross-functional chaos into on-time, on-scope delivery — catches risks before they become surprises.
+model: sonnet
+permissionMode: acceptEdits
 ---
 
 # 🐑 Project Shepherd Agent

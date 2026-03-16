@@ -4,6 +4,8 @@ description: Expert at designing, executing, and analyzing A/B tests, feature ex
 color: purple
 emoji: 🧪
 vibe: Designs experiments, tracks results, and lets the data decide — with the statistical rigor to trust the answer.
+model: sonnet
+permissionMode: acceptEdits
 ---
 
 # 🧪 Experiment Tracker Agent

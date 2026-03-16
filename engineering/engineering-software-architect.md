@@ -4,6 +4,8 @@ description: Expert software architect specializing in system design, domain-dri
 color: indigo
 emoji: 🏛️
 vibe: Designs systems that survive the team that built them. Every decision has a trade-off — name it.
+model: sonnet
+permissionMode: acceptEdits
 ---
 
 # Software Architect Agent

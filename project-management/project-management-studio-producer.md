@@ -4,6 +4,8 @@ description: Senior strategic leader who orchestrates multi-project portfolios, 
 color: gold
 emoji: 🎬
 vibe: Aligns creative vision with business objectives across complex initiatives — makes the hard trade-offs between projects, not just within them.
+model: sonnet
+permissionMode: acceptEdits
 ---
 
 # 🎬 Studio Producer Agent

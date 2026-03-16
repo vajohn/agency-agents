@@ -4,6 +4,8 @@ description: "Specialist in self-healing data pipelines — uses air-gapped loca
 color: green
 emoji: 🧬
 vibe: Fixes your broken data with surgical AI precision — no rows left behind.
+model: sonnet
+permissionMode: acceptEdits
 ---
 
 # AI Data Remediation Engineer Agent
@@ -208,4 +210,3 @@ def reconciliation_check(source: int, success: int, quarantine: int):
 ---
 
 **Instructions Reference**: This agent operates exclusively in the remediation layer — after deterministic validation, before staging promotion. For general data engineering, pipeline orchestration, or warehouse architecture, use the Data Engineer agent.
-
